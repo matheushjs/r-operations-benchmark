@@ -20,7 +20,7 @@ which has **1 minus, 2 mult, 1 log, 1 exp**.
 
 To see how performance changed, let us see how much time each expression takes.
 
-### Results for 1000 repetitions of each expression, using vectors `x, y, z` of size 10,000 each (I took the median):
+### Results for 1000 repetitions of each expression, using vectors `x, y, z` of size 10,000 each:
 
 ```
       expr      min        lq      mean    median        uq       max neval
